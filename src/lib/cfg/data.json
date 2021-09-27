@@ -1,5 +1,5 @@
 {
-    "root":"/home/zyf/dataset",
+    "root":"/content",
     "train":
     {
         "mot17":"./data/mot17.train",
@@ -7,7 +7,8 @@
         "citypersons":"./data/citypersons.train",
         "cuhksysu":"./data/cuhksysu.train",
         "prw":"./data/prw.train",
-        "eth":"./data/eth.train"
+        "eth":"./data/eth.train",
+        "mot15":"./data/mot15.train"
     },
     "test_emb":
     {
